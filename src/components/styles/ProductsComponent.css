@@ -1,0 +1,13 @@
+.item-card-image {
+  height: 150px !important;
+  object-fit: scale-down;
+}
+
+.item-card,
+.item-card-badge {
+  margin: 8px;
+}
+
+.products-container {
+  padding: 10px;
+}

@@ -1,0 +1,7 @@
+.Content {
+  display: flex;
+  flex: 1;
+  overflow-y: auto;
+  /* background-color: aquamarine; */
+  margin-top: 3px;
+}
